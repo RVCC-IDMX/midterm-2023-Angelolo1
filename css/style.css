@@ -1,0 +1,52 @@
+header {
+    text-align: center;
+    color:#021e3e;
+    font-size: 175%;
+
+    font-family:'Space Mono';
+}
+
+body {
+    text-align: center;
+    background-color:#8fc7f5;
+    color:#021e3e;
+}
+
+body {
+    font-family:'Space Mono';
+}
+
+#hero {
+    font-family:'Space Mono';
+    border:2px solid #021e3e;
+    border: 5px solid rgb(255, 255, 255);
+    background-color:rgb(254, 254, 254);
+    border: 5px solid #021e3e;
+
+}
+
+#IDMX {
+    font-family:'Space Mono';
+
+    text-align: left;
+    text-align: justify;
+    box-shadow:black;
+    border-style: dashed;
+    border: 5px solid #021e3e;
+    background-color:rgb(254, 254, 254);
+
+}
+
+#Offers {
+    font-family:'Space Mono';
+
+    text-align: center;
+
+}
+
+#Feet {
+
+    font-family:'ariel';
+    text-align: left;
+    font-size: 110%;
+}
